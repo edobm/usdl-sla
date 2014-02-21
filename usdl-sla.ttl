@@ -23,8 +23,8 @@
         <http://linked-usdl.org/ns/usdl-sla#cmom> .
 
 <http://linked-usdl.org/ns/usdl-sla#tleidig> a foaf:Person;
-    foaf:name "Torsten Leidig";
-    foaf:homepage <> .
+    foaf:name "Torsten Leidig".
+    foaf:homepage <https://plus.google.com/+TorstenLeidig> .
 
 <http://linked-usdl.org/ns/usdl-sla#SAP%20Research%20Center%20CEC%20Karlsruhe%2C%20SAP%20AG> a foaf:Organization;
     foaf:member <http://linked-usdl.org/ns/usdl-sla#tleidig>;
@@ -32,8 +32,8 @@
     foaf:homepage <http://www.sap.com> .
 
 <http://linked-usdl.org/ns/usdl-sla#cmom> a foaf:Person;
-    foaf:name "Christof Momm";
-    foaf:homepage <> .
+    foaf:name "Christof Momm".
+#    foaf:homepage <> .
 
 <http://linked-usdl.org/ns/usdl-sla#SAP%20AG> a foaf:Organization;
     foaf:member <http://linked-usdl.org/ns/usdl-sla#cmom>;
